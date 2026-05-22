@@ -14,8 +14,6 @@ Check out my [LinkedIn](https://linkedin.com/in/ijeoma-arisa) for a glimpse of m
 
 ## 🚧 Current Projects
 - iPRAY 4U: Prayer Request Web Application ([Repo](https://github.com/ijeoma-arisa/iPRAY-4U-app))
-- IgboIn30: Igbo Language-Learning Web Application ([Repo](https://github.com/ijeoma-arisa/IgboIn30))
-
 
 ## 💻 Tech Stack
 ### Frontend
