@@ -13,9 +13,7 @@ Check out my [LinkedIn](https://linkedin.com/in/ijeoma-arisa) for a glimpse of m
 
 
 ## 🚧 Currently Building
-- iPRAY 4U: Prayer Request Web Application ([Repo](https://github.com/ijeoma-arisa/iPRAY-4U-app))
-
-🔨 Currently working on performance and frontend UX improvements.
+- iPRAY 4U: Prayer Request Web Application ([Repo](https://github.com/ijeoma-arisa/iPRAY-4U-app))<br>🔨 Currently working on performance and frontend UX improvements.
 
 ## 💻 Tech Stack
 ### Frontend
