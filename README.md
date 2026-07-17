@@ -51,5 +51,6 @@ Check out my [LinkedIn](https://linkedin.com/in/ijeoma-arisa) for a glimpse of m
 
 
 ## 🌱 Currently Learning
-- Creating automated testing for Flask API
-- Using GitHub Actions for CI/CD workflows
+- Integrating Codex into my software development workflow
+- Applied AI engineering
+- Application security, testing, and performance optimization
