@@ -12,8 +12,9 @@ My name, Ijeọma, means "Good Journey" in Igbo, and that's how I describe my so
 Check out my [LinkedIn](https://linkedin.com/in/ijeoma-arisa) for a glimpse of my journey so far!
 
 
-## 🚧 Current Projects
+## 🚧 Currently Building
 - iPRAY 4U: Prayer Request Web Application ([Repo](https://github.com/ijeoma-arisa/iPRAY-4U-app))
+🔨 Currently working on performance and frontend UX improvements.
 
 ## 💻 Tech Stack
 ### Frontend
